@@ -130,7 +130,3 @@ nb-configuration.xml
 #ambiente docker
 /data/
 /logs/
-
-/app/logs/*.*
-.env
-*.log
